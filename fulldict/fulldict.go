@@ -77,6 +77,8 @@ func Init() bool {
 			// 	count += 3
 			// 	continue
 			// }
+			// fulldict_jp_advは事前に処理したもの
+			
 			t := items[1][0]
 			if t < 'a' {
 				t = t + 0x20
