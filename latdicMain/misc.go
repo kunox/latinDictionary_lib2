@@ -2,7 +2,7 @@ package latdicmain
 
 import (
 	"fmt"
-	S "ldic_lib/structs"
+	S "github.com/kunox/latinDictionary_lib2/structs"
 	"strconv"
 	"strings"
 )

@@ -1,7 +1,7 @@
 package tablecreation
 
 import (
-	S "ldic_lib/structs"
+	S "github.com/kunox/latinDictionary_lib2/structs"
 )
 
 // 受動態を能動態に移し、受動態をブランクに

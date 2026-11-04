@@ -2,9 +2,9 @@ package latdicmain
 
 import (
 	// Ending "latindic/endinglist"
-	Full "ldic_lib/fulldict"
+	Full "github.com/kunox/latinDictionary_lib2/fulldict"
 	// Stemlist "latindic/stemlist"
-	S "ldic_lib/structs"
+	S "github.com/kunox/latinDictionary_lib2/structs"
 	// Infl "latindic/inflection"
 	"strings"
 	_"strconv"

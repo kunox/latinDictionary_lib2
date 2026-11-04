@@ -1,9 +1,9 @@
 package inflection
 
 import (
-	S "ldic_lib/structs"
+	S "github.com/kunox/latinDictionary_lib2/structs"
 	"strings"
-	"ldic_lib/stemlist"
+	"github.com/kunox/latinDictionary_lib2/stemlist"
 )
 
 func GetInfllection(word string) ([]S.Findings, bool) {

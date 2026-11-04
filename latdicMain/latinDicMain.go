@@ -1,12 +1,12 @@
 package latdicmain
 
 import (
-	Ending "ldic_lib/endinglist"
-	Full "ldic_lib/fulldict"
-	Stemlist "ldic_lib/stemlist"
-	S "ldic_lib/structs"
-	Infl "ldic_lib/inflection"
-	TC "ldic_lib/tablecreationF"
+	Ending "github.com/kunox/latinDictionary_lib2/endinglist"
+	Full "github.com/kunox/latinDictionary_lib2/fulldict"
+	Stemlist "github.com/kunox/latinDictionary_lib2/stemlist"
+	S "github.com/kunox/latinDictionary_lib2/structs"
+	Infl "github.com/kunox/latinDictionary_lib2/inflection"
+	TC "github.com/kunox/latinDictionary_lib2/tablecreationF"
 	"strings"
 	_"strconv"
 

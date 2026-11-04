@@ -3,7 +3,7 @@ package stemlist
 import (
 	_ "embed"
 	_ "io/ioutil"
-	S "ldic_lib/structs"
+	S "github.com/kunox/latinDictionary_lib2/structs"
 	"regexp"
 	"strconv"
 	"strings"

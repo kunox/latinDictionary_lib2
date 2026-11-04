@@ -4,7 +4,7 @@ import (
 	_ "embed"
 	"fmt"
 	_ "io/ioutil"
-	S "ldic_lib/structs"
+	S "github.com/kunox/latinDictionary_lib2/structs"
 	"regexp"
 	"sort"
 	"strings"

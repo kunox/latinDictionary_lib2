@@ -1,10 +1,10 @@
 package tablecreation
 
 import (
-	S "ldic_lib/structs"
+	S "github.com/kunox/latinDictionary_lib2/structs"
 	"strings"
-	"ldic_lib/fulldict"
-	Ending"ldic_lib/endinglist"
+	"github.com/kunox/latinDictionary_lib2/fulldict"
+	Ending"github.com/kunox/latinDictionary_lib2/endinglist"
 	"strconv"
 )
 

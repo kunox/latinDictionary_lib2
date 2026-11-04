@@ -1,10 +1,10 @@
 package inflection
 
 import (
-	Ending "ldic_lib/endinglist"
-	_ "ldic_lib/fulldict"
-	_ "ldic_lib/stemlist"
-	S "ldic_lib/structs"
+	Ending "github.com/kunox/latinDictionary_lib2/endinglist"
+	_ "github.com/kunox/latinDictionary_lib2/fulldict"
+	_ "github.com/kunox/latinDictionary_lib2/stemlist"
+	S "github.com/kunox/latinDictionary_lib2/structs"
 	"strings"
 	"strconv"
 )
