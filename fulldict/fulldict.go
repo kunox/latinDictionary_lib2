@@ -3,8 +3,8 @@ package fulldict
 import (
 	_ "embed"
 	"fmt"
-	_ "io/ioutil"
 	S "github.com/kunox/latinDictionary_lib2/structs"
+	_ "io/ioutil"
 	"regexp"
 	"sort"
 	"strings"
@@ -78,7 +78,7 @@ func Init() bool {
 			// 	continue
 			// }
 			// fulldict_jp_advは事前に処理したもの
-			
+
 			t := items[1][0]
 			if t < 'a' {
 				t = t + 0x20
